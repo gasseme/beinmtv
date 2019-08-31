@@ -1,2 +1,3 @@
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
 #EXTINF:-1BEIN SPORTS",beIN SPORTS 1 HD
-http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8|User-agent=Lavf/56.15.102
+http://yacinebeiin.ddns.net:8000/live/beiinnw02211/beiinnw02211/14.ts
